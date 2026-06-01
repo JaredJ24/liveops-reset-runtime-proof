@@ -1,0 +1,32 @@
+{
+  "workspaceId": "pet-bank-dev",
+  "universeId": "10138933629",
+  "placeId": "139880727120503",
+  "environment": "dev",
+  "pointer": {
+    "key": "runtime/workspaces/pet-bank-dev/universes/10138933629/env/dev/current.json",
+    "path": "/Users/jaredju/Developer/Roblox_Agent_Worktrees/liveops-reset/dist/runtime-proof/objects/runtime/workspaces/pet-bank-dev/universes/10138933629/env/dev/current.json",
+    "cacheControl": "no-store, max-age=0, must-revalidate",
+    "contentType": "application/json; charset=utf-8"
+  },
+  "badHashPointer": {
+    "key": "runtime/workspaces/pet-bank-dev/universes/10138933629/env/dev/current.bad-hash.json",
+    "path": "/Users/jaredju/Developer/Roblox_Agent_Worktrees/liveops-reset/dist/runtime-proof/objects/runtime/workspaces/pet-bank-dev/universes/10138933629/env/dev/current.bad-hash.json",
+    "cacheControl": "no-store, max-age=0, must-revalidate",
+    "contentType": "application/json; charset=utf-8"
+  },
+  "snapshot": {
+    "key": "runtime/workspaces/pet-bank-dev/universes/10138933629/env/dev/snapshots/516d692ec8a1320aff9a9acb9551c970070bc79f9bf4b94a8663d4843256f6b3.json",
+    "path": "/Users/jaredju/Developer/Roblox_Agent_Worktrees/liveops-reset/dist/runtime-proof/objects/runtime/workspaces/pet-bank-dev/universes/10138933629/env/dev/snapshots/516d692ec8a1320aff9a9acb9551c970070bc79f9bf4b94a8663d4843256f6b3.json",
+    "url": "https://raw.githubusercontent.com/JaredJ24/liveops-reset-runtime-proof/main/objects/runtime/workspaces/pet-bank-dev/universes/10138933629/env/dev/snapshots/516d692ec8a1320aff9a9acb9551c970070bc79f9bf4b94a8663d4843256f6b3.json",
+    "hash": "sha256:516d692ec8a1320aff9a9acb9551c970070bc79f9bf4b94a8663d4843256f6b3",
+    "runtimeBlockTypes": [
+      "claimable_reward_sequence@1",
+      "offer@1",
+      "random_reward_table@1",
+      "scheduled_reward_track@1"
+    ],
+    "cacheControl": "public, max-age=31536000, immutable",
+    "contentType": "application/json; charset=utf-8"
+  }
+}
