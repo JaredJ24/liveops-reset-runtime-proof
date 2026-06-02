@@ -1,0 +1,24 @@
+{
+  "developerProductId": "1828289475",
+  "environment": "dev",
+  "placeId": "110713961021399",
+  "pointer": {
+    "cacheControl": "no-store, max-age=0, must-revalidate",
+    "contentType": "application/json; charset=utf-8",
+    "key": "runtime/workspaces/pet-bank-liveops-testing/universes/8479998523/env/dev/current.json",
+    "path": "/tmp/liveops-reset-runtime-proof/objects/runtime/workspaces/pet-bank-liveops-testing/universes/8479998523/env/dev/current.json"
+  },
+  "snapshot": {
+    "cacheControl": "public, max-age=31536000, immutable",
+    "contentType": "application/json; charset=utf-8",
+    "hash": "sha256:79fdb2b533857e681d2a71796fd9445acef619ac93d104646dc65a4f73d12e5b",
+    "key": "runtime/workspaces/pet-bank-liveops-testing/universes/8479998523/env/dev/snapshots/79fdb2b533857e681d2a71796fd9445acef619ac93d104646dc65a4f73d12e5b.json",
+    "path": "/tmp/liveops-reset-runtime-proof/objects/runtime/workspaces/pet-bank-liveops-testing/universes/8479998523/env/dev/snapshots/79fdb2b533857e681d2a71796fd9445acef619ac93d104646dc65a4f73d12e5b.json",
+    "runtimeBlockTypes": [
+      "offer@1"
+    ],
+    "url": "https://raw.githubusercontent.com/JaredJ24/liveops-reset-runtime-proof/main/objects/runtime/workspaces/pet-bank-liveops-testing/universes/8479998523/env/dev/snapshots/79fdb2b533857e681d2a71796fd9445acef619ac93d104646dc65a4f73d12e5b.json"
+  },
+  "universeId": "8479998523",
+  "workspaceId": "pet-bank-liveops-testing"
+}
